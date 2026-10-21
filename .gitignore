@@ -1,0 +1,16 @@
+# Secrets
+.env
+credentials.json
+token.json
+client_secret*.json
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
